@@ -1,5 +1,5 @@
-# Fruit-Ninja
-A clone of the game Fruit Ninja using PyGame
+# Fruit-Ninja with Vision
+A clone of the game Fruit Ninja using PyGame but something different you can this game by moving your head. I am not kiding ! 😍
 To run this game install the individual python modules given in requirements.txt file using pip.
 
 You can run this game using the following command on your command prompt or terminal, depending on the version of python installed.
