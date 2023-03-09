@@ -1,4 +1,4 @@
-# Fruit-Ninja with Vision
+# Pop game with Vision
 A clone of the game Fruit Ninja using PyGame but something different you can this game by moving your head. I am not kiding ! 😍
 
 ![alt text](vision.jpeg)
@@ -7,15 +7,15 @@ To run this game install the individual python modules given in requirements.txt
 
 You can run this game using the following command on your command prompt or terminal, depending on the version of python installed.
 ```
-1. python game.py
-2. python3 game.py
+1. python game.py #normallly
+2. python3 game.py #if you python version is above 3.0
 3. py game.py
 ```
 ## Live Video 
 
 https://youtube.com/shorts/aibgwjWSqFQ
 
-You only have to move your head over the fruit to cut it.
+You only have to move your head over the space objects to burst it.
 
 A PLATFORM THAT UTILIZES FACIAL RECOGNITION AND EYE TRACKING TO IMPROVE AIM TRAINING FOR PLAYERS .
 
