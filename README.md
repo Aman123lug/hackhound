@@ -15,14 +15,14 @@ You can run this game using the following command on your command prompt or term
 
 https://youtube.com/shorts/aibgwjWSqFQ
 
-You only have to move your head over the fruit to cut it.
+You only have to move your head over the fruit to cut it. Should have an average camera so that face can be located. Have to face front your face should not be hidden 
 
 A PLATFORM THAT UTILIZES FACIAL RECOGNITION AND EYE TRACKING TO IMPROVE AIM TRAINING FOR PLAYERS .
 
 ![alt text](allgamepic.jpeg)
 
 ### For Run this project
-In any IDE run game.py first
+In any IDE of your's run game.py first
 ```
 python game.py
 ```
